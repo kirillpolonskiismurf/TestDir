@@ -2,8 +2,7 @@
 
 ```vega-lite
 {
-  "$schema":
-  "https://vega.github.io/schema/vega-lite/v2.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
   "description": "Description",
   "data": {
     "values": [
