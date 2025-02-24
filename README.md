@@ -29,8 +29,6 @@
       "field": "b",
       "type": "quantitative"
     }
-  },
-  "width": 500,
-  "height": 500
+  }
 }
 ```
