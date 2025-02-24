@@ -4,7 +4,7 @@
 {
   "$schema":
   "https://vega.github.io/schema/vega-lite/v2.json",
-  "description": "Description"
+  "description": "Description",
   "data": {
     "values": [
       {"a": "800", "b": 8},
