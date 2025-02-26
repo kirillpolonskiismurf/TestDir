@@ -1,3 +1,3 @@
 # Статистика решённых задач
-
-![Текст изображения](presentation/cur_overall_stats_codeforces.png)
+## Codeforces
+![Текст изображения](presentation/cur_detailed_stats_codeforces.png)
